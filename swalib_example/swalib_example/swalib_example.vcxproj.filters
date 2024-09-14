@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\MessagesFolder">
+      <UniqueIdentifier>{022808e5-61d0-4f44-98cc-de02582d00a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\MessagesFolder">
+      <UniqueIdentifier>{1174da21-b470-41a2-a747-01d7bf6ad0ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Loop">
+      <UniqueIdentifier>{8c5b1823-401e-41a4-99ba-e48213670291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Entities">
+      <UniqueIdentifier>{d54e76c7-cdf9-4f30-b5e7-99bdd0acc70b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Components">
+      <UniqueIdentifier>{51cf2fc8-1aa8-4a9f-bfe6-95afa539333a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\NothingToSee%2a%2a">
+      <UniqueIdentifier>{20d99350-fc98-4399-b202-d2f5b2d8330a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\NothingToSee%2a%2a">
+      <UniqueIdentifier>{9e04859a-92f9-4928-8548-adc71954bc9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Loop">
+      <UniqueIdentifier>{7a4b2007-f9dc-4685-a3e8-d5984edc98cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Components">
+      <UniqueIdentifier>{5c0da38f-d619-4e53-9bc0-87b29844c301}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Entities">
+      <UniqueIdentifier>{dea23691-8d25-472f-acc1-f021b4cfcf4c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\common\core.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\common\lodepng.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\common\stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\common\sys_win.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\common\example.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\common\font.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Textures.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Message.cpp">
+      <Filter>Source Files\MessagesFolder</Filter>
+    </ClCompile>
+    <ClCompile Include="NewPosMsg.cpp">
+      <Filter>Source Files\MessagesFolder</Filter>
+    </ClCompile>
+    <ClCompile Include="LimitWorldCollMsg.cpp">
+      <Filter>Source Files\MessagesFolder</Filter>
+    </ClCompile>
+    <ClCompile Include="EntCollisionMsg.cpp">
+      <Filter>Source Files\MessagesFolder</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionMsg.cpp">
+      <Filter>Source Files\MessagesFolder</Filter>
+    </ClCompile>
+    <ClCompile Include="Ball.cpp">
+      <Filter>Source Files\NothingToSee%2a%2a</Filter>
+    </ClCompile>
+    <ClCompile Include="GameLogic.cpp">
+      <Filter>Source Files\NothingToSee%2a%2a</Filter>
+    </ClCompile>
+    <ClCompile Include="GameRender.cpp">
+      <Filter>Source Files\NothingToSee%2a%2a</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Source Files\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="DisplacementComponent.cpp">
+      <Filter>Source Files\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionComponent.cpp">
+      <Filter>Source Files\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="Component.cpp">
+      <Filter>Source Files\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderComponent.cpp">
+      <Filter>Source Files\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="LogicManager.cpp">
+      <Filter>Source Files\Loop</Filter>
+    </ClCompile>
+    <ClCompile Include="Shutdown.cpp">
+      <Filter>Source Files\Loop</Filter>
+    </ClCompile>
+    <ClCompile Include="InitGame.cpp">
+      <Filter>Source Files\Loop</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderEngine.cpp">
+      <Filter>Source Files\Loop</Filter>
+    </ClCompile>
+    <ClCompile Include="Global.cpp">
+      <Filter>Source Files\Loop</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Source Files\Loop</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Level.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LimitPlayerWorld.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerSpriteMsg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BulletSpriteMsg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PlatformCollMsg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StairCollMsg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\common\core.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\common\lodepng.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\common\stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\common\sys.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\common\font.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\common\vector2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Textures.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Message.h">
+      <Filter>Header Files\MessagesFolder</Filter>
+    </ClInclude>
+    <ClInclude Include="NewPosMsg.h">
+      <Filter>Header Files\MessagesFolder</Filter>
+    </ClInclude>
+    <ClInclude Include="LimitWorldCollMsg.h">
+      <Filter>Header Files\MessagesFolder</Filter>
+    </ClInclude>
+    <ClInclude Include="EntCollisionMsg.h">
+      <Filter>Header Files\MessagesFolder</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionMsg.h">
+      <Filter>Header Files\MessagesFolder</Filter>
+    </ClInclude>
+    <ClInclude Include="Shutdown.h">
+      <Filter>Header Files\Loop</Filter>
+    </ClInclude>
+    <ClInclude Include="InitGame.h">
+      <Filter>Header Files\Loop</Filter>
+    </ClInclude>
+    <ClInclude Include="LogicManager.h">
+      <Filter>Header Files\Loop</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h">
+      <Filter>Header Files\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionComponent.h">
+      <Filter>Header Files\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Component.h">
+      <Filter>Header Files\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="DisplacementComponent.h">
+      <Filter>Header Files\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderComponent.h">
+      <Filter>Header Files\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderEngine.h">
+      <Filter>Header Files\Loop</Filter>
+    </ClInclude>
+    <ClInclude Include="GameLogic.h">
+      <Filter>Header Files\NothingToSee%2a%2a</Filter>
+    </ClInclude>
+    <ClInclude Include="GameRender.h">
+      <Filter>Header Files\NothingToSee%2a%2a</Filter>
+    </ClInclude>
+    <ClInclude Include="Ball.h">
+      <Filter>Header Files\NothingToSee%2a%2a</Filter>
+    </ClInclude>
+    <ClInclude Include="Global.h">
+      <Filter>Header Files\Loop</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Header Files\Loop</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BulletSpriteMsg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerSpriteMsg.h">
+      <Filter>Header Files\MessagesFolder</Filter>
+    </ClInclude>
+    <ClInclude Include="PlatformCollMsg.h">
+      <Filter>Header Files\MessagesFolder</Filter>
+    </ClInclude>
+    <ClInclude Include="LimitPlayerWorld.h">
+      <Filter>Header Files\MessagesFolder</Filter>
+    </ClInclude>
+    <ClInclude Include="StairCollMsg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

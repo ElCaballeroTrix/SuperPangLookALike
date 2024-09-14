@@ -1,0 +1,36 @@
+{
+    "Entity": "Bullet",
+    "pos": {
+        "x": 0,
+        "y": 0
+    },
+    "vel": {
+        "x": 0,
+        "y": 300
+    },
+    "radius": 8,
+    "width": 8,
+    "height": 8,
+    "CollisionComponent": {
+        "pos": {
+            "$ref": "#/pos"
+        },
+        "radius": {
+            "$ref": "#/radius"
+        }
+    },
+    "DisplacementComponent": {
+        "pos": {
+            "$ref": "#/pos"
+        },
+        "vel": {
+            "$ref": "#/vel"
+        }
+    },
+    "RenderComponent": {
+        "radius": {
+            "$ref": "#/radius"
+        },
+        "gfx": "data/Bullet.png"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "Entity": "Player",
+    "pos": {
+        "x": 320,
+        "y": 32
+    },
+    "vel": {
+        "x": 200,
+        "y": 200
+    },
+    "radius": 16,
+    "width": 10,
+    "height": 16,
+    "CollisionComponent": {
+        "pos": {
+            "$ref": "#/pos"
+        },
+        "radius": {
+            "$ref": "#/radius"
+        }
+    },
+    "DisplacementComponent": {
+        "pos": {
+            "$ref": "#/pos"
+        },
+        "vel": {
+            "$ref": "#/vel"
+        }
+    },
+    "RenderComponent": {
+        "radius": {
+            "$ref": "#/radius"
+        },
+        "gfx": "data/Player/Player0.png",
+	"gfx1": "data/Player/Player1.png",
+	"gfx2": "data/Player/Player2.png",
+	"gfx3": "data/Player/Player3.png",
+	"gfx4": "data/Player/Player4.png",
+	"gfx5": "data/Player/Player5.png",
+	"gfx6": "data/Player/Player6.png",
+	"gfx7": "data/Player/Player7.png",
+	"gfx8": "data/Player/Player8.png",
+	"gfx9": "data/Player/Player9.png",
+	"gfx10": "data/Player/Player10.png"
+    }
+}

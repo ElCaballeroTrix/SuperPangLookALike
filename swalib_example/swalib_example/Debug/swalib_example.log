@@ -1,0 +1,9 @@
+﻿  CollisionComponent.cpp
+  Top in: C:\Users\santi\Desktop\Utad\IS1\Arquitectura6\SuperPangSantiagoCaballero\swalib_example\swalib_example\Component.h
+  Top in: C:\Users\santi\Desktop\Utad\IS1\Arquitectura6\SuperPangSantiagoCaballero\swalib_example\swalib_example\Entity.h
+  Before class in: C:\Users\santi\Desktop\Utad\IS1\Arquitectura6\SuperPangSantiagoCaballero\swalib_example\swalib_example\Entity.h
+  Before class in: C:\Users\santi\Desktop\Utad\IS1\Arquitectura6\SuperPangSantiagoCaballero\swalib_example\swalib_example\Component.h
+  Top in: C:\Users\santi\Desktop\Utad\IS1\Arquitectura6\SuperPangSantiagoCaballero\swalib_example\swalib_example\DisplacementComponent.h
+  Before class in: C:\Users\santi\Desktop\Utad\IS1\Arquitectura6\SuperPangSantiagoCaballero\swalib_example\swalib_example\DisplacementComponent.h
+C:\Users\santi\Desktop\Utad\IS1\Arquitectura6\SuperPangSantiagoCaballero\swalib_example\swalib_example\CollisionComponent.cpp(223,17): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  swalib_example.vcxproj -> C:\Users\santi\Desktop\Utad\IS1\Arquitectura6\SuperPangSantiagoCaballero\swalib_example\Debug\swalib_example.exe

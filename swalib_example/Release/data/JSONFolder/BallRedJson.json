@@ -1,0 +1,36 @@
+{
+    "Entity": "Ball",
+    "pos": {
+        "x": 420,
+        "y": 100
+    },
+    "vel": {
+        "x": 200,
+        "y": -252
+    },
+    "radius": 32,
+    "width": 0,
+    "height": 0,
+    "CollisionComponent": {
+        "pos": {
+            "$ref": "#/pos"
+        },
+        "radius": {
+            "$ref": "#/radius"
+        }
+    },
+    "DisplacementComponent": {
+        "pos": {
+            "$ref": "#/pos"
+        },
+        "vel": {
+            "$ref": "#/vel"
+        }
+    },
+    "RenderComponent": {
+        "radius": {
+            "$ref": "#/radius"
+        },
+        "gfx": "data/Balls/BallRed.png"
+    }
+}

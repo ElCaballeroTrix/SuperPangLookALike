@@ -1,0 +1,67 @@
+﻿  core.cpp
+  example.cpp
+  font.cpp
+  lodepng.cpp
+C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\common\lodepng.cpp(798,34): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\common\lodepng.cpp(3478,46): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  stdafx.cpp
+  sys_win.cpp
+  Ball.cpp
+  Top in: C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\Entity.h
+C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\Entity.h(3,10): fatal  error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+  CollisionComponent.cpp
+  Top in: C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\Component.h
+  Top in: C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\Entity.h
+C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\Entity.h(3,10): fatal  error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+  CollisionMsg.cpp
+C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\CollisionMsg.h(3,10): fatal  error C1083: Cannot open include file: 'vector2d.h': No such file or directory
+  Component.cpp
+  Top in: C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\Component.h
+  Top in: C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\Entity.h
+C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\Entity.h(3,10): fatal  error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+  DisplacementComponent.cpp
+  Top in: C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\DisplacementComponent.h
+  Top in: C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\Component.h
+  Top in: C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\Entity.h
+C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\Entity.h(3,10): fatal  error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+  EntCollisionMsg.cpp
+C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\CollisionMsg.h(3,10): fatal  error C1083: Cannot open include file: 'vector2d.h': No such file or directory
+  Entity.cpp
+  Top in: C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\Entity.h
+C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\Entity.h(3,10): fatal  error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+  GameLogic.cpp
+C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\GameLogic.h(2,10): fatal  error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+  GameRender.cpp
+C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\GameRender.cpp(2,10): fatal  error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+  Global.cpp
+C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\Global.h(3,10): fatal  error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+  InitGame.cpp
+C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\InitGame.cpp(2,10): fatal  error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+  Level.cpp
+C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\Sprite.h(2,10): fatal  error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+  LimitWorldCollMsg.cpp
+C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\CollisionMsg.h(3,10): fatal  error C1083: Cannot open include file: 'vector2d.h': No such file or directory
+  LogicManager.cpp
+C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\Timer.h(2,10): fatal  error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+  Generating Code...
+  Compiling...
+  Message.cpp
+  NewPosMsg.cpp
+C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\NewPosMsg.h(3,10): fatal  error C1083: Cannot open include file: 'vector2d.h': No such file or directory
+  RenderComponent.cpp
+  Top in: C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\Component.h
+  Top in: C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\Entity.h
+C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\Entity.h(3,10): fatal  error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+  RenderEngine.cpp
+C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\Sprite.h(2,10): fatal  error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+  Shutdown.cpp
+C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\Shutdown.cpp(2,10): fatal  error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+  Sprite.cpp
+C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\Sprite.h(2,10): fatal  error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+  Textures.cpp
+C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\Textures.cpp(2,10): fatal  error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+  Tile.cpp
+C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\Tile.h(2,10): fatal  error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+  Timer.cpp
+C:\Users\santiago.caballero\Downloads\Arquitectura6\Arquitectura6\Arquitectura5\swalib_example\swalib_example\Timer.h(2,10): fatal  error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+  Generating Code...
